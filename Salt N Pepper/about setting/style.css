@@ -1,0 +1,31 @@
+
+.logo{
+    margin-top: 5px;
+    margin-left: 100px;
+}
+
+.container-1 {
+    width: 100%;
+    height: 100px;
+    background-color: #000;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-top: -94px;
+    flex-wrap: wrap;
+    text-wrap: wrap;
+}
+.box {
+    margin: 24px 16px;
+    color: aliceblue;
+    font-size: medium;
+}
+.box > a {
+    text-decoration: none;
+    color: var(--white);
+}
+
+.container-1{text-align: center;
+
+
+}
